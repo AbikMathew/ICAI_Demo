@@ -91,6 +91,7 @@ h1:hover{
 .header-buttons:hover{
     text-decoration: underline;
     background-color: #d0d0d0;
+    cursor: pointer;
 }
 
 .header-buttons{
