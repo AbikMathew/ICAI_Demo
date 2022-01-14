@@ -146,6 +146,7 @@ h1:hover{
 }
 .icon-box:hover{
     transform: scale(1.05);
+    cursor: pointer;
 }
 
 .icon-text{
@@ -176,6 +177,7 @@ h1:hover{
 }
 .banner-box:hover{
     transform: scale(0.9);
+    cursor: pointer;
 }
 
 .banner-text{
